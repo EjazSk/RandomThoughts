@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+
+{% block content %}
+	
+	
+
+	{% ifequal request.user.username username %} 
+
+	<h2>Welcome to Your Profile {{username}}</h2>
+	<h4>Your Thoughts</h4>
+	<div class="container">
+      
+        {% for x in qs %}
+        <blockquote >
+
+          <p class="lead">{{x}}</p>
+          <footer>Via : {{x.user}}</footer>
+        </blockquote>
+
+        <br>
+        
+                <br>
+
+        {% endfor %}
+
+
+    </div>
+
+    {% else %}
+    <h2>Welcome to the Profile of {{username}}</h2>
+    <h4> {{username}} 's Thoughts</h4>
+    <div class="container">
+      
+        {% for x in qs %}
+        <blockquote >
+
+          <p class="lead">{{x}}</p>
+          <footer>Via : <a href="/account/{{x.user}}">{{x.user}}</a> </footer>
+        </blockquote>
+
+        <br>
+        
+                <br>
+
+        {% endfor %}
+
+
+    </div>
+
+	{% endifequal %}
+
+
+
+
+
+
+	
+	
+	
+
+{% endblock %}

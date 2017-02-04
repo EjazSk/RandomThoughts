@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+{% if user.is_authenticated %}
+
+<div class="container">
+<div class="row">
+	<form method="POST" action=".">  {% csrf_token %} 
+		
+		{{form|crispy}}
+	<input type="submit" value="submit" class="btn btn-primary">
+	</form>
+	{% else %}
+	<h1>Please login <a href="/admin">Here</a> </h1>
+	{% endif %}
+</div>
+</div>
+{% endblock %}	
+

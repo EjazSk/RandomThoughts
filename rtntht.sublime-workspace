@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mis",
+				"MisCall"
+			],
+			[
+				"s",
+				"sms"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"a",
+				"accounts"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"az",
+				"AzyModelManager"
+			],
+			[
+				"exi",
+				"exist_qs"
+			],
+			[
+				"cod",
+				"code_gen"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"MO",
+				"models"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/python35/Scripts/rndtht/Scripts/randomthoughts"
+	],
+	"file_history":
+	[
+		"/C/python35/Scripts/django18/Scripts/django18/templates/home.html",
+		"/F/ShapeBootstraps/test.html",
+		"/F/ShapeBootstraps/about-us.html",
+		"/F/ShapeBootstraps/index.html",
+		"/F/ShapeBootstraps/sendemail.php",
+		"/C/python35/Scripts/django18/Scripts/django18/newsletter/models.py",
+		"/C/python35/Scripts/django18/Scripts/django18/django18/urls.py",
+		"/C/python35/Scripts/django18/Scripts/django18/newsletter/forms.py",
+		"/C/python35/Scripts/django18/Scripts/django18/newsletter/sms.py",
+		"/C/python35/Scripts/django18/Scripts/django18/newsletter/admin.py",
+		"/C/python35/Scripts/django18/Scripts/django18/django18/settings.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/form.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/python35/Scripts/django110/Scripts/azy/azy/settings.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/admin.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/utils.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/management/commands/refereshshortcodes.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/models.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/management/commands/__init__.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/management/__init__.py",
+		"/C/python35/Scripts/django110/Scripts/activate_this.py",
+		"/C/python35/Scripts/django110/Scripts/azy/shortner/migrations/0001_initial.py",
+		"/C/python35/Scripts/cfe/blog/templates/base.html",
+		"/C/python35/Scripts/cfe/blog/templates/add_post.html",
+		"/C/python35/Scripts/cfe/cfe/settings.py",
+		"/C/python35/Scripts/cfe/blog/templates/post_form.html",
+		"/C/python35/Scripts/cfe/blog/static/css/base.css",
+		"/C/python35/Scripts/cfe/blog/templates/detail.html",
+		"/C/python35/Scripts/cfe/blog/forms.py",
+		"/C/python35/Scripts/cfe/blog/templates/home.html",
+		"/C/python35/Scripts/cfe/blog/home.html",
+		"/C/python35/Scripts/cfe/cfe/urls.py",
+		"/C/python35/Scripts/cfe/blog/views.py",
+		"/C/python35/Scripts/cfe/blog/models.py",
+		"/C/python35/Scripts/cfe/blog/migrations/0005_auto_20161023_1545.py",
+		"/C/python35/Scripts/cfe/cfe/static/css/base.css",
+		"/C/python35/Scripts/cfe/blog/urls.py",
+		"/C/python35/Scripts/cfe/blog/admin.py",
+		"/C/python35/Scripts/trydjango19/db.sqlite3",
+		"/C/python35/Scripts/trydjango19/trydjango19/urls.py",
+		"/C/python35/Scripts/trydjango19/posts/models.py",
+		"/C/python35/Scripts/trydjango19/posts/admin.py",
+		"/C/python35/Scripts/trydjango19/trydjango19/settings.py",
+		"/C/python35/Scripts/trydjango19/trydjango19/__init__.py",
+		"/C/python35/Scripts/edx/personal/templates/blog/blog.html",
+		"/C/python35/Scripts/edx/personal/templates/blog/test.py",
+		"/C/python35/Scripts/edx/personal/templates/header.html",
+		"/C/python35/Scripts/edx/personal/templates/index.html",
+		"/C/python35/Scripts/edx/personal/templates/contact.html",
+		"/C/python35/Scripts/edx/personal/templates/blog/post.html",
+		"/C/python35/Scripts/ecommerce-master/ecommerce-master/ecommerce/ecommerce/settings.py",
+		"/C/python35/Scripts/examplesite/personal/templates/blog/post.html",
+		"/C/python35/Scripts/examplesite/personal/templates/blog/blog.html",
+		"/C/python35/Scripts/examplesite/personal/templates/personal/header.html",
+		"/C/python35/Scripts/examplesite/personal/templates/personal/contact.html",
+		"/C/python35/Scripts/examplesite/personal/templates/personal/home.html",
+		"/C/python35/Scripts/examplesite/personal/templates/personal/blog.html",
+		"/C/python35/Scripts/mysite/personal/templates/personal/basic.html",
+		"/C/Users/Ejaz/Downloads/oxygen-free-bootstrap-one-page-theme/template/index.html",
+		"/F/oxygen-free-bootstrap-one-page-theme/template/index.html",
+		"/F/oxygen-free-bootstrap-one-page-theme/template/sendemail.php",
+		"/C/Users/Ejaz/Downloads/Friends - S09.en.zip",
+		"/C/Users/Ejaz/Downloads/ZeeshanProvisional.pdf",
+		"/C/Users/Ejaz/Downloads/Resume.doc",
+		"/C/Users/Ejaz/Downloads/IMG_20150113_112433.JPG",
+		"/C/Users/Ejaz/Downloads/convert-jpg-to-pdf.net_2016-09-25_13-11-10.pdf",
+		"/C/python35/Scripts/mysite/ejazpersonal/templates/index.html",
+		"/C/python35/Scripts/mysite/personal/templates/personal/header.html",
+		"/C/python35/Scripts/mysite/ejaz/templates/ejaz/home.html",
+		"/C/python35/Scripts/mysite/personal/templates/personal/home.html",
+		"/G/ejz/mytestHTMLcssJS/me.html",
+		"/C/python35/Scripts/mysite/ejaz/templates/ejaz/header.html",
+		"/C/Users/Ejaz/print 'Hello'.py",
+		"/C/Users/Ejaz/Downloads/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jpg",
+			"message",
+			"models.ImageField(blank=True, height_field='height_field', null=True, upload_to=blog.models.image_location, width_field='width_field'),"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\python35\\Scripts\\rndtht\\Scripts\\randomthoughts"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

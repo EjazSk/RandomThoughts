@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+    {% block content %}
+    <div class="container">
+      
+        {% for x in qs %}
+        <blockquote >
+
+          <p class="lead">{{x}}</p>
+          <footer>Via : <a href="/account/{{x.user}}#disqus_thread">{{x.user}}</a> </footer>
+        </blockquote>
+
+        <a href="/rt/{{x.id}}">Comment</a>
+
+        <br>
+  
+                <br>
+
+        {% endfor %}
+
+
+    </div>
+    {% endblock %}
+
+  
