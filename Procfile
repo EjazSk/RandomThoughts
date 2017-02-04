@@ -1,1 +1,1 @@
-web: gunicorn cfehome.wsgi --log-file -
+web: gunicorn rt.wsgi --log-file -
