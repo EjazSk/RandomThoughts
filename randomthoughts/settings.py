@@ -133,6 +133,8 @@ STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_in_dip","static_ro
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static_in_prod","our_statics"),
 )
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+#STATIC_ROOT = "/home/cfedeploy/webapps/cfehome_static_root/"
 
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
 
