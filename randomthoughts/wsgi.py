@@ -8,9 +8,6 @@ https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/
 """
 
 import os
-from whitenoise import WhiteNoise
-
-from my_project import MyWSGIApp
 
 from django.core.wsgi import get_wsgi_application
 from whitenoise.django import DjangoWhiteNoise
@@ -19,11 +16,5 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "randomthoughts.settings")
 
 
 
-#application = get_wsgi_application()
-#application = DjangoWhiteNoise(application)
-
-
-
-application = MyWSGIApp()
-application = WhiteNoise(application)
-#application.add_files('/path/to/more/static/files', prefix='more-files/')
+application = get_wsgi_application()
+application = DjangoWhiteNoise(application)
