@@ -1,1 +1,1 @@
-web: gunicorn randomthoughts.wsgi --log-file -
+web: gunicorn rndtht.wsgi --log-file -
