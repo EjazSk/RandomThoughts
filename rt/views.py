@@ -41,3 +41,6 @@ def detailView(request,id):
 	object = RT.objects.get(id=id)
 	context={'object':object}
 	return render(request,'detail.html',context)
+
+def about(request):
+	return render(request,'about.html')

@@ -28,6 +28,7 @@ urlpatterns = [
     url(r'^accounts/', include('registration.backends.default.urls')),
     url(r'account/(?P<user__username>[\w.@+-]+)$',views.userView),
     url(r'^rt/(?P<id>\d+)$', views.detailView),
+     url(r'^about/$', views.about, name='about'),
 
 
   
