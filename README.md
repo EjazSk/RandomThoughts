@@ -7,6 +7,8 @@ This is my first step in Web development with Django, Git and GitHub, More to co
 
 Check and revert us with your Valuable suggestions.
 
+Live Project at http://rndtht.herokuapp.com/
+
 
 Thanks
 Ejaz
